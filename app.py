@@ -1,3 +1,4 @@
+# KR2: KHVOROSTYANKO
 import os
 import socket
 
